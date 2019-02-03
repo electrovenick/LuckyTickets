@@ -1,0 +1,7 @@
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\bin\Debug\Счастливые билеты.exe.config
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\bin\Debug\Счастливые билеты.exe
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\bin\Debug\Счастливые билеты.pdb
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\obj\Debug\Счастливые билеты.csprojAssemblyReference.cache
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\obj\Debug\Счастливые билеты.csproj.CoreCompileInputs.cache
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\obj\Debug\Счастливые билеты.exe
+D:\Users\User\source\repos\Счастливые билеты\Счастливые билеты\obj\Debug\Счастливые билеты.pdb
